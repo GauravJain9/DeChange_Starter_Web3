@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  background-color: #f1f1f1;
+  padding: 2px;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: black;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.tablestyle{
+  column-gap: 40px;
+  border-spacing: 15px;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.shadow
+{
+  box-shadow: 2px 2px;
+}
+
+.margin
+{
+  margin-top: 40000px;
+}
